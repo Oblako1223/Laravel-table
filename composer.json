@@ -2,7 +2,7 @@
   "name": "oblako/laravel-table",
   "description": "This package includes some boosts to speed up common Laravel +5.8 tasks",
   "require": {
-    "php": "^8.2",
+    "php": "^8.0",
     "laravel/framework": "^5.8|6.*|7.*|8.*|9.*|10.*"
   },
   "extra": {
